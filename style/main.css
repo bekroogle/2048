@@ -9,7 +9,9 @@ html, body {
 
 body {
   margin: 80px 0; }
-
+form {
+  clear: both;
+}
 .heading:after {
   content: "";
   display: block;
