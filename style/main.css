@@ -13,7 +13,7 @@ body {
 form {
   clear: both;
 }
-
+/*
 input {
   display: inline-block;
   background: #8f7a66;
@@ -33,7 +33,8 @@ input {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none; }
-  input[type="text"], input[type="email"] {
+
+  input[type="text"], input[type="email"], input[type="radio"] {
     cursor: auto;
     background: #fcfbf9;
     font-weight: normal;
@@ -45,7 +46,7 @@ input {
       color: #9d948c; }
     input[type="text"]:-ms-input-placeholder, input[type="email"]:-ms-input-placeholder {
       color: #9d948c; }
-
+*/
 .heading:after {
   content: "";
   display: block;
